@@ -18,7 +18,7 @@ export default function Hero() {
               Gasfiter certificado · Especialista en fugas
             </p>
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-titulo leading-tight">
-              Soluciones sanitarias{" "}
+              Soluciones de gasfitería{" "}
               <span className="bg-gradient-to-r from-celeste-oscuro to-celeste-vivo bg-clip-text text-transparent">confiables</span> para tu
               hogar
             </h1>
